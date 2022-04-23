@@ -21,4 +21,6 @@ La lengua de señas es la forma de comunicación entre la población sorda y la 
 
 ![Graficas](https://github.com/VBeer/Tesis_Grado/blob/main/Capturas/image035.png?raw=true)
 
+### Video.
+
 **El video del funcionamiento se puede ver [Aqui](https://drive.google.com/file/d/1rSXBbUJn6RExnwRfhvb10eDfEP6GV0at/view?usp=sharing).**
